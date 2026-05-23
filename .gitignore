@@ -37,4 +37,4 @@ ENV/
 .DS_Store
 
 # Data 
-# data/heatsink.txt
+data/heatsink.txt
