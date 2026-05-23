@@ -75,7 +75,7 @@ Separate Kriging surrogates are trained for TR and PD, then optimised using:
 |---|---|---|---|---|
 | Min TR | 1.000 | 1.000 | 0.1619 | 13868 |
 | Min PD | 1.000 | 0.400 | 0.1862 | 12553 |
-| **Balanced** | — | — | **0.1634** | **13622** |
+| **Balanced** | **1.000** | **0.889** | **0.1634** | **13622** |
 
 The balanced design sits within 1% of the best thermal performance while increasing PD by only ~2%.
 
