@@ -36,10 +36,5 @@ ENV/
 *.swo
 .DS_Store
 
-# Generated figures (optional — remove this line to track results)
-results/*.png
-results/*.pdf
-results/*.svg
-
-# Data (if not distributing the dataset publicly)
-# data/heatsink.txt
+# Data 
+data/heatsink.txt
