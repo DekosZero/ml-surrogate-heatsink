@@ -1,0 +1,16 @@
+name: mchs-surrogate
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy>=1.24
+  - pandas>=2.0
+  - matplotlib>=3.7
+  - scipy>=1.11
+  - scikit-learn>=1.3
+  - jupyterlab>=4.0
+  - notebook>=7.0
+  - pip
+  - pip:
+    - smt>=2.5
